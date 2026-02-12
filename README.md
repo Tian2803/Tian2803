@@ -7,7 +7,7 @@ Soy **Sebastian Burgos**, un apasionado estudiante de Ingeniería de Sistemas en
 
 [![Youtube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@tian28)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/sastian_28)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/sebastian-burgos-perez-4bb2a2310)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](www.linkedin.com/in/sebastianburgosp)
 
 ## Habilidades y Tecnologías
 
@@ -33,10 +33,6 @@ Soy **Sebastian Burgos**, un apasionado estudiante de Ingeniería de Sistemas en
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=ffcd34)  
-
-### Aprendiendo
-
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%230071C5.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ## Estadísticas de GitHub
 
